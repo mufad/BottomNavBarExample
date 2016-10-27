@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavBarExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Hello Menu fragment</string>
+
+    <string name="hello_blank_fragment_2">Hello Email fragment</string>
+    <string name="hello_blank_fragment_3">Hello Map fragment</string>
+</resources>
